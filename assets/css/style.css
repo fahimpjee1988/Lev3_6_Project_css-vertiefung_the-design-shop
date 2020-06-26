@@ -1,0 +1,33 @@
+/* Assets:
+Font: Karla
+Farbe: #323A45 / #848484 */
+
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+
+*{
+    margin:0;
+    font-family: 'Karla', sans-serif;
+}
+
+header{
+    display: flex;
+
+}
+ul{
+    display:flex;
+}
+
+ul li{
+    list-style: none;
+    padding-left: 15px;
+   
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+}
